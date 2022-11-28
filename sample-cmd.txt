@@ -1,9 +1,0 @@
-Template --> command --flag -f [PARAMETER] <--
-
-command: calling a specific job or function to run
-
-	--flag: toggles an option for the command that causes it to do something that deviates from it's original behavior (works like a switch)
-
-		-f: flags have shorthands denoted by a single "-" followed by a single alphabetic character
-			PARAMETER: The parameter is replaced by the argument that you pass in. Often, a file.
-			
